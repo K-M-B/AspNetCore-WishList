@@ -5,7 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Views\Wishlist\Shared\" />
     <Folder Include="wwwroot\" />
   </ItemGroup>
 
